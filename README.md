@@ -16,7 +16,9 @@ Options:
 
 -v, --version           version information, license and copyright
 
-example: fastcsv2json -d pipe -c 10 -s 20 < myfile.csv > myfile.json
+**example:** 
+
+fastcsv2json -d pipe -c 10 -s 20 < myfile.csv > myfile.json
 
 fastjson2csv is written in ISO C90 and will compile easily under any platform.
 
