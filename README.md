@@ -1,6 +1,7 @@
 # fastcsv2json:  convert csv to json array
 
 Usage: fastcsv2json [OPTION]
+
 Convert csv to json array from STDIN to STDOUT
 
 Options:
