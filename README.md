@@ -6,15 +6,15 @@ Convert csv to json array from STDIN to STDOUT
 
 Options:
 
--c, --max-columns       maximum columns, default 200
+-c, --max-columns&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maximum columns, default 200
 
--d, --delimiter         delimiter as pipe, comma, semicolumn, column or tab
+-d, --delimiter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;delimiter as pipe, comma, semicolumn, column or tab
 
--h, --help              give this help
+-h, --help&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;give this help
 
--s, --max-column-size   maximum column size, default 500
+-s, --max-column-size&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maximum column size, default 500
 
--v, --version           version information, license and copyright
+-v, --version&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;version information, license and copyright
 
 **example:** 
 
